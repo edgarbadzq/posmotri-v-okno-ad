@@ -1,1 +1,1 @@
-(https://github.com/edgarbadzq/posmotri-v-okno)
+https://github.com/edgarbadzq/posmotri-v-okno-ad
